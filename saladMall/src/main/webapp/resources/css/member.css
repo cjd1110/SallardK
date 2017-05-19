@@ -1,0 +1,128 @@
+/*MEMBER CSS*/
+
+/*LOGIN*/
+.login{width:100%;
+	   float:left;
+	   }
+.login h2{text-align:center;
+			margin-top:30px;
+			}
+
+.login_box{width:350px;
+			 margin:0 auto;
+			 }
+.login_form{width:100%;
+				 float:left;
+				 }
+.login_form li{width:100%;
+				   float:left;
+				   }
+.login_form li label{width:100px;
+						  float:left;
+						}
+.login_etc_btn{width:100%;
+				   float:left;
+				   text-align:right;;
+				  }
+.login_etc_btn li{display:inline;
+					background:#eee;}						  
+				   						  
+/*JOIN*/
+.join{width:100%;
+	   float:left;
+	   }
+.join h2{text-align:center;
+			margin-top:30px;
+			}
+.join_box{width:350px;
+			 margin:0 auto;
+			 }
+.join_form{width:100%;
+				 float:left;
+				 }
+.join_form li{width:100%;
+				   float:left;
+				   }
+.join_form li label{width:100px;
+						  float:left;
+						}
+.join_form li input{float:left;}		
+
+/*FIND*/
+
+.find_id{width:100%;
+		  float:left;
+		  margin-top:30px;
+		  }
+.find_id h2{text-align:center;}		
+.find_id_form{width:350px;
+				 margin:0 auto;
+				 }
+.find_id_form label{width:100%;
+						text-align:center;
+						float:left;
+						}	
+							
+.find_pw{width:100%;
+		  float:left;
+		  margin-top:30px;
+		  }
+.find_pw h2{text-align:center;}
+.find_pw_form{width:350px;
+				 margin:0 auto;
+				 }
+.find_pw_form label{width:100%;
+						text-align:center;
+						float:left;
+						}
+						
+/*DELETE*/
+.delete{width:100%;
+		 float:left;
+		 }
+.delete h2{text-align:center;}
+.delete_box{width:350px;
+			   margin:0 auto;
+			   }
+.delete_box label{width:100%;
+						text-align:center;
+						float:left;
+						}
+.delete_box input{width:100%;
+					  float:left;
+					  }										   
+
+/*Q&A*/
+.qnaList {width:100%;
+		  float:left;
+		  }
+.qnaList h2{text-align:center;
+			 margin-top:30px;
+			 }		  
+.qnaList table{width:80%;
+				margin:0 auto;
+				border:1px solid #eee;
+				margin-top:30px;}
+.qnaList table tr{width:100%;
+					border-bottom:1px solid #eee;
+					float:left;
+					}
+.qnaList table tr:last-child{border-bottom:0px solid #fff;}						  
+.qnaList table th{text-align:center;
+					float:left;
+					}		 
+.qnaList table td{text-align:center;
+					float:left;
+					}		  
+.qnaList table tr th:nth-child(1){width:10%;}
+.qnaList table tr th:nth-child(2){width:10%;}
+.qnaList table tr th:nth-child(3){width:50%;}
+.qnaList table tr th:nth-child(4){width:20%;}
+.qnaList table tr th:nth-child(5){width:10%;}
+
+.qnaList table tr td:nth-child(1){width:10%;}
+.qnaList table tr td:nth-child(2){width:10%;}
+.qnaList table tr td:nth-child(3){width:50%;}
+.qnaList table tr td:nth-child(4){width:20%;}
+.qnaList table tr td:nth-child(5){width:10%;}
+	  													  				   				 			 	   	

@@ -1,0 +1,22 @@
+.review{width:100%;
+		 float:left;
+		 }
+
+/*REVIEW LIST*/
+
+.review_wrap{width:80%;
+			    margin:0 auto;
+			    }
+.review_line{width:100%;
+			   float:left;
+			   }	
+.review_box{width:25%;
+			   float:left;
+			   text-align:center;
+			   }	
+
+.paging{width:100%;
+		  float:left;
+		  margin-top:30px;
+		  }			   
+			   			   		    			 

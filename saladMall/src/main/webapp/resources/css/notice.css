@@ -1,0 +1,70 @@
+/*NOTICE CSS*/
+
+/*NOTICE_LIST*/
+.notice {width:100%;
+		  float:left;
+		  }
+.notice h2{text-align:center;
+			 margin-top:30px;
+			 }		  
+.notice table{width:80%;
+				margin:0 auto;
+				border:1px solid #eee;
+				margin-top:30px;}
+.notice table tr{width:100%;
+					border-bottom:1px solid #eee;
+					float:left;
+					}
+.notice table tr:last-child{border-bottom:0px solid #fff;}						  
+.notice table th{text-align:center;
+					float:left;
+					}		 
+.notice table td{text-align:center;
+					float:left;
+					}		  
+.notice table tr th:nth-child(1){width:10%;}
+.notice table tr th:nth-child(2){width:50%;}
+.notice table tr th:nth-child(3){width:10%;}
+.notice table tr th:nth-child(4){width:20%;}
+.notice table tr th:nth-child(5){width:10%;}
+
+.notice table tr td:nth-child(1){width:10%;}
+.notice table tr td:nth-child(2){width:50%;}
+.notice table tr td:nth-child(3){width:10%;}
+.notice table tr td:nth-child(4){width:20%;}
+.notice table tr td:nth-child(5){width:10%;}
+
+.notice ul{width:80%;
+			margin:0 auto;
+			margin-top:30px;
+			}		
+.notice ul li{float:right;}
+
+
+/*NOTICE_DETAIL*/
+.noticeDetail {width:100%;
+		  		 float:left;
+		  		 }
+
+.noticeDetailUl{width:80%;
+					margin:0 auto;
+					margin-top:30px;
+					}		  		 
+.noticeDetailUl li{float:left;
+					  text-align:center;}		  		 
+.noticeDetailUl li:nth-child(1){width:70%;}
+.noticeDetailUl li:nth-child(2){width:15%;}
+.noticeDetailUl li:nth-child(3){width:15%;}		
+.noticeDetailUl li:nth-child(4){width:100%;
+									border-top:1px solid #eee;
+									}
+.noticeDetail_etcbtn{width:80%;
+						margin:0 auto;
+						 }
+.noticeDetail_btn{width:80%;
+					  margin:0 auto;
+					  text-align:center;
+					  margin-top:30px;
+					  }				  						 
+.noticeDetail_etcbtn li{float:left;
+							margin-right:20px;}														  	 												  				   				 			 	   	
